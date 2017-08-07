@@ -1,0 +1,8 @@
+#+TITLE: My GTD
+** 概述
+** Tasks.org
+  记录一些代办事项，循环事件，临时事件。
+** Ideas.org
+  记录一些偶尔一闪而过的灵感或者想法。
+** Notes.org
+  记录临时笔记，随后会整理Essay的Notes里。
