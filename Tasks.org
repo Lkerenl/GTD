@@ -1,0 +1,28 @@
+#+SEQ_TODE: TODO(t!) STARTED(s) WAITING(w) APPT(a) | DONE(d) CLOSED(c@/!)
+* Tasks
+** Archive                                                          :ARCHIVE:
+*** DONE 飞机
+    SCHEDULED: <2017-08-27 Sun> DEADLINE: <2017-08-28 Mon>
+    :PROPERTIES:
+    :ARCHIVE_TIME: 2017-08-31 Thu 15:59
+    :END:
+    咸阳机场T3 <2017-08-28 Mon 11:50>--<2017-08-09 Wed 14:00>
+                      西安--------------------->桂林
+    记得带被罩床单手机身份证书
+
+* GAME
+** TODO WARFRAME
+*** [0/4] 收 
+    + [ ] 猛虎 prime 30-40
+    + [ ] 搬运者 prime 70-80
+    + [ ] LOKI prime
+      + [ ] LOKI prime  总图 
+      + [ ] LOKI prime  头
+      + [ ] LOKI prime  机体
+      + [ ] LOKI prime  系统
+    + [ ] ASH prime
+      + [ ] ASH prime  总图 
+      + [ ] ASH prime  头
+      + [ ] ASH prime  机体
+      + [ ] ASH prime  系统
+
